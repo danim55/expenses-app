@@ -1,15 +1,13 @@
 .header {
     background-color: #276183;
+    height: 3%;
     color: white;
-    padding: 1rem 2rem;
+    padding: 1rem 0.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .container {
-    max-width: 1200px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    max-width: 75rem;
 }
 
 h1 {
