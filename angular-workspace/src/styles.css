@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+app-root,
+body,
+html {
+    display: block;
+    height: 100%;
+    overflow: hidden;
+}
